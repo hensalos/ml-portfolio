@@ -10,6 +10,7 @@ Welcome! This is my personal machine learning portfolio showcasing key projects 
 | [Image Classification](projects/project-2-classification) | Classifying hand-written digits (MNIST) | CNN, Keras, TensorFlow |
 | [Clustering News Articles](projects/project-3-nlp-clustering) | Text clustering using NLP techniques | TF-IDF, KMeans |
 
+
 ## 🚀 Skills & Tools
 
 - Python, Jupyter Notebook
